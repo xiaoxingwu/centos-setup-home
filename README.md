@@ -1,2 +1,2 @@
-# setuphome
-add a user for development purpose
+# Centos Setup Home Scripts
+Setup development environment for Centos cloud machine.
